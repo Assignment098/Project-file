@@ -18,12 +18,22 @@
   <main>
     <section>
       <div class="video-container">
-        <video muted loop autoplay>
+        <video  id="video-element-id" muted loop autoplay>
           <source src="video/Walrus Video Final.mp4" type="video/mp4">
         </video>
       </div>
     </section>
   </main>
+    <script>
+        var ua = navigator.userAgent.toLowerCase();
+var is_safari = (ua.indexOf("safari/") > -1 && ua.indexOf("chrome") < 0);
+if(is_safari) {
+    var video = document.getElementById('#video-element-id');
+    setTimeout(function() {
+       video.play();
+    }, 50);
+}    
+    </script>
 </body>
 </html>
 
