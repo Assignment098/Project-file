@@ -1,116 +1,66 @@
-@font-face {
-	font-family: nasalization;
-	src: url(../Typodermic\ -\ NasalizationRg-Regular.otf);
-  }
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <!-- REQUIRED META TAGS -->
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="keywords" content="keywords for SEO">
+  <meta name="description" content="Write your short description">
+
+	<!-- PAGE TITLE -->
+  <title>Home</title>
+
+      <!-- FONT-AWESOME v5 -->
+  <link rel="stylesheet" href="css/fontAwesome.min.css">
+
+  <!-- CUSTOM CSS -->
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/responsive.css">
+
+  <!-- FAVICON -->
+	<link rel="shortcut icon" type="image/x-icon" href="images/signal.png" />
+</head>
+<body>
+
+  <!-- Header starts -->
+  <header>
+  </header>
   
-html {
-	scroll-behavior: smooth;
-}
-body {
-  margin: 0;
-  padding: 0;
-	background-color: #efeeeb;
-	font-family: nasalization;
-}
-* {
-  box-sizing: border-box;
-}
+  <!-- Header starts -->
+  <main>
+    <section id="sec1">
+      <div class="sub-sec">
+          <p>Coming Soon</p>
+        <img src="./images/signal.png">
 
-/* Custom css Starts here */
-img {
-    width: 10%;
-    display: block;
-    margin: auto;
-}
-h1 {
-    font-size: 60px;
-}
-a{
-	text-decoration: none;
-}
-p {
-    text-align: center;
-    color: #fff;
-    font-size: 25px;
-}
-.social {
-    color: #fff;
-    text-align: center;
-	margin: 50px 0;
-}
-.sub-sec {
-    margin-top: -30px;
-}
-.icons {
-    text-transform: uppercase;
-    top: 65vh;
-    LEFT: 28%;
-    width: 75%;
-    margin: auto;
-    DISPLAY: flex;
-    z-index: 999;
-    COLOR: #FFF;
-    border: 1px solid #fff;
-    padding: 0 20px;
+        <div class="social">
+            <h3>WE ARE </h3>
+            <h1>THE WALRUS</h1>
+          <div class="icons">
+          <p style="padding: 10px;">Join the revolution</p>
+          <img src="./images/arrow.png">
+          <div class="icon-sec"><a href="#"><i class="fab fa-twitter"></i></a>
+            <a href="#"><p>TWITTER</p></a></div>
+            <br>
+            <div class="icon-sect"><a href="#"><i class="fab fa-discord"></i></a>
+            <a href="#"><p>DISCORD</p></a></div>
+        </div>
+          
+        </div>
+        <div class="hill">
+            <img src="./images/hill.png">
+        </div>
+      </div>
+    </section>
+  </main>
 
-}
-.icons p {
-	white-space: nowrap;
-    font-size: 24px;
-}
-.icons img{
-	WIDTH: 23%;
-    HEIGHT: 20%;
-    padding: 10px 10px 10px 25px;
-}
-.icons .icon-sec{
-	display: flex;
-    padding: 10px 47px 10px 16px;
-}
-.icons .icon-sect {
-	display: flex;
-    padding: 10px 1px;
-}
-section#sec1 .social .icons i {
-    color: white;
-    font-size: 3vh;
-    z-index: 999;
-    padding: 29px 10px;
-}
-.hill img {
-	width: auto;
-    position: fixed;
-    border: 0;
-    margin: auto;
-}
-.icons p {
-	font-size: 24px;
-}
-section#sec1 {
-	width: 100%;
-	height: 100vh;
-	background: url(../images/black_background.png);
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	overflow: hidden;
-}
-section#sec1 .animationVid video {
-	width: 100%;
-	position: absolute;
-	top: 0;
-	left: 0;
-	object-fit: cover;
-	pointer-events: none;
-}
-section#sec1 .animationVid .social {
-	position: absolute;
-	top: 90vh;
-	right: 3px;
-	z-index: 999;
-}
-section#sec1 .animationVid .social i {
-	color: white;
-	font-size: 6vh;
-	z-index: 999;
-}
+  <!-- Header starts -->
+  <footer>
+  </footer>
+
+  <!-- Js heres -->
+  <script src="js/script.js"></script>
+
+</body>
+</html>
