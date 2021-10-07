@@ -167,8 +167,8 @@ section#sec1 .animationVid .social i {
 }
 @media only screen and (max-width: 672px) {
 .icons {
-    width: 96%;
-    margin: 0;
+    width: 90%;
+    margin: auto;
     padding: 0;
 }
 .hill img {
@@ -185,9 +185,6 @@ section#sec1 .animationVid .social i {
 .icons .icon-sec {
     padding: 10px 5px 10px 5px;
 }
-	.icons {
-    width: 100%;
-	}
 .hill img {
     width: 65%;
 	}
