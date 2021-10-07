@@ -149,5 +149,21 @@ section#sec1 .animationVid .social i {
 .icons {
     width: 90%;
 	}
+	.icons img {
+    WIDTH: 14%;
+    margin: auto 0;
+	}
 }
-
+@media only screen and (max-width: 792px) {
+.icons .icon-sec {
+    padding: 10px 10px 10px 16px;
+}
+}
+@media only screen and (max-width: 425px) {
+.icons {
+	padding: 0 0;
+}
+.icons .icon-sec {
+    padding: 10px 5px 10px 5px;
+}
+}
