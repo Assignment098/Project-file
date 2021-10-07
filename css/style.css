@@ -50,7 +50,7 @@ p {
     text-transform: uppercase;
     top: 65vh;
     LEFT: 28%;
-	    width: 60%;
+	    width: 65%;
     margin: auto;
     DISPLAY: flex;
     z-index: 999;
@@ -75,8 +75,8 @@ p {
 }
  .icon-sect img {
 	 padding: 0;
-	 width:35px;
-	 margin-top: 22px;
+	 width:35px ; 
+    	margin: 22px 20px 0 0;
 }
 
 .icons .icon-sec{
