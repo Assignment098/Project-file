@@ -70,9 +70,13 @@ p {
 }
 .icon-sec img, .icon-sect img{
     padding: 0;
-    width: 100%;
-    margin: 27px 20px 0 0;
-    height: auto;
+    width: 25px;
+    margin: 28px 20px 0 0;
+}
+ .icon-sect img {
+	 width:35px;
+	 margin-top: 22px;
+}
 	}
 .icons .icon-sec{
 	display: flex;
