@@ -1,4 +1,8 @@
-
+@font-face {
+	font-family: nasalization;
+	src: url(../Nasalization/Typodermic\ -\ NasalizationRg-Regular.otf);
+  }
+  
 html {
 	scroll-behavior: smooth;
 }
@@ -6,7 +10,7 @@ body {
   margin: 0;
   padding: 0;
 	background-color: #efeeeb;
-	font-family: CorporateS, 'Roboto';
+	font-family: nasalization;
 }
 * {
   box-sizing: border-box;
