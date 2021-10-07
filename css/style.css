@@ -68,12 +68,13 @@ p {
     HEIGHT: 20%;
     padding: 10px 10px 10px 25px;
 }
-.icon-sec img, .icon-sect img{
-    padding: 0;
-    width: 25px;
-    margin: 28px 20px 0 0;
+.icon-sec img {
+	padding: 0;
+    	margin: 28px 20px 0 0;
+	width: 25px;
 }
  .icon-sect img {
+	 padding: 0;
 	 width:35px;
 	 margin-top: 22px;
 }
