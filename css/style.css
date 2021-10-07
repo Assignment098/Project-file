@@ -179,6 +179,9 @@ section#sec1 .animationVid .social i {
 .icons .icon-sec {
     padding: 10px 5px 10px 5px;
 }
+	.icons {
+    width: 100%;
+	}
 .hill img {
     width: 65%;
 	}
