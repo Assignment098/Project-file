@@ -171,6 +171,9 @@ section#sec1 .animationVid .social i {
 	.icon-sec img, .icon-sect img {
     margin: 17px 20px 0 0;
 	}
+.icons p {
+    white-space: normal;
+}
 }
 @media only screen and (max-width: 425px) {
 .icons .icon-sec {
@@ -183,13 +186,13 @@ section#sec1 .animationVid .social i {
     padding: 5px;
 	}
 	.icons .icon-sec {
-    padding: 10px 3px;
+    padding: 10px 1px;
 }
 	.icon-sec img, .icon-sect img {
     margin: 15px 5px 0 0;
 	}.icons .icon-sect {
     display: flex;
-    padding: 10px 3px;
+    padding: 10px 1px;
 }
 p.j{
    padding: 10px 3px !important;
