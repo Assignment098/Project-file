@@ -169,9 +169,8 @@ section#sec1 .animationVid .social i {
 .icons {
     width: 96%;
     margin: 0;
-    padding: 0 0
-}
-	
+    padding: 0 0;
+}	
 }
 @media only screen and (max-width: 425px) {
 .icons .icon-sec {
