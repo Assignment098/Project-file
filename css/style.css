@@ -59,9 +59,8 @@ p {
     font-size: 24px;
 }
 .icons img{
-	WIDTH: 23%;
-    HEIGHT: 20%;
-    padding: 10px 10px 10px 25px;
+    WIDTH: auto;
+    margin: 27px 20px 0 0;
 }
 .icons .icon-sec{
 	display: flex;
