@@ -22,8 +22,9 @@ img {
     display: block;
     margin: auto;
 }
-h1 {
-    font-size: 60px;
+h1 { 
+    font-size: calc(39px + 1vw);
+    margin: 10px 0;
 }
 a{
 	text-decoration: none;
