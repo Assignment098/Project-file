@@ -19,7 +19,7 @@ img {
     margin: auto;
 }
 h1 {
-    font-size: 60px;
+    font-size: calc(37px + 1vw);
 }
 a{
 	text-decoration: none;
