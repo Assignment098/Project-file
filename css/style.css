@@ -59,9 +59,14 @@ p {
     font-size: 24px;
 }
 .icons img{
-    WIDTH: auto;
-    margin: 27px 20px 0 0;
+	WIDTH: 23%;
+    HEIGHT: 20%;
+    padding: 10px 10px 10px 25px;
 }
+.icon-sec img, .icon-sect img{
+		WIDTH: auto;
+		margin: 27px 20px 0 0;
+	}
 .icons .icon-sec{
 	display: flex;
     padding: 10px 47px 10px 16px;
