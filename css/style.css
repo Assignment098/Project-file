@@ -125,4 +125,29 @@ section#sec1 .animationVid .social i {
     width: 66%;
 	}
 }
+@media only screen and (max-width: 1382px) {
+.icons {
+    width: 75%;
+	}
+}
+@media only screen and (max-width: 1114px) {
+.icons {
+    width: 79%;
+	}
+}
+@media only screen and (max-width: 1052px) {
+.icons {
+    width: 83%;
+	}
+}
+@media only screen and (max-width: 1008px) {
+.icons p {
+    font-size: 20px;
+}
+}
+@media only screen and (max-width: 884px) {
+.icons {
+    width: 90%;
+	}
+}
 
