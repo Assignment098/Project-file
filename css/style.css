@@ -172,7 +172,7 @@ section#sec1 .animationVid .social i {
     margin: 17px 20px 0 0;
 	}
 .icons p {
-    white-space: normal;
+    white-space: normal !important;
 }
 }
 @media only screen and (max-width: 425px) {
