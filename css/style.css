@@ -23,7 +23,7 @@ img {
     margin: auto;
 }
 h1 {
-    font-size: calc(37px + 1vw);
+    font-size: 60px;
 }
 a{
 	text-decoration: none;
@@ -112,6 +112,3 @@ section#sec1 .animationVid .social i {
 	font-size: 6vh;
 	z-index: 999;
 }
-
-
-
