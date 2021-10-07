@@ -198,10 +198,12 @@ section#sec1 .animationVid .social i {
     padding: 10px 1px;
 }
 	.icon-sect img {
-    margin: 15px 5px 0 0;
+    margin: 8px 5px 0 0;	
+    width: 29px;
 	}
 	.icon-sec img{
     margin: 15px 5px 0 0;
+    width: 19px;
 	}.icons .icon-sect {
     display: flex;
     padding: 10px 1px;
