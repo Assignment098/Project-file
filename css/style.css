@@ -150,7 +150,7 @@ section#sec1 .animationVid .social i {
     width: 90%;
 	}
 	.icons img.aroimg {
-    WIDTH: 14%;
+    WIDTH: 11%;
     margin: auto 0;
 	}
 }
@@ -178,6 +178,18 @@ section#sec1 .animationVid .social i {
 	}
 	.icons img.aroimg {
     padding: 5px;
+	}
+	.icons .icon-sec {
+    padding: 10px 3px;
+}
+	.icon-sec img, .icon-sect img {
+    margin: 15px 5px 0 0;
+	}.icons .icon-sect {
+    display: flex;
+    padding: 10px 3px;
+}
+p.j{
+   padding: 10px 3px !important;
 	}
 }
 @media only screen and (max-width: 320px) {
