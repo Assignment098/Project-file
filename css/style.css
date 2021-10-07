@@ -9,7 +9,6 @@ html, body {
     margin: 0;
     padding: 0;
     overflow-x: hidden;
-     overflow-y: hidden;
     scroll-behavior: smooth;
 }
 body {
@@ -208,6 +207,10 @@ section#sec1 .animationVid .social i {
     width: 100%;
     margin-top: 0;
 }
+	
+html, body {
+	overflow-y: hidden;
+	}
 }
 @media only screen and (max-width: 425px) {
 .icons .icon-sec {
