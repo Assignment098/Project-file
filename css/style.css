@@ -45,6 +45,8 @@ p {
     text-transform: uppercase;
     top: 65vh;
     LEFT: 28%;
+	    width: 60%;
+    margin: auto;
     DISPLAY: flex;
     z-index: 999;
     COLOR: #FFF;
