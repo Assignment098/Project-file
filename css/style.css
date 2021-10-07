@@ -61,7 +61,7 @@ p {
 }
 .icons p {
 	white-space: nowrap;
-    font-size: calc(10px + 1vw);
+    font-size: calc(8px + 1vw);
 }
 .icons img.aroimg{
 	WIDTH: 23%;
@@ -211,7 +211,6 @@ p.j{
 }
 @media only screen and (max-width: 320px) {
 .icons {
-    width: 98%;
     padding: 0;
 }
 	.hill img {
